@@ -1,6 +1,7 @@
 This is a react app that's a daily planner where you can view, add, and edit weekly tasks. All react files are located under "dailyplanner/src/"
 
 By default, this app will show you a weekly view starting from Sunday of the current week. Clicking the "Previous Week" and "Next Week" buttons will navigate you to the desired week:
+
 <img width="337" height="210" alt="image" src="https://github.com/user-attachments/assets/4cc9e3f2-a48e-470f-a587-4119773930a7" />
 
 You can also click the "Add New Task" button to display fields to add a new task with. You can set the Task Name, Due Date, Estimate, and Status of the task:
