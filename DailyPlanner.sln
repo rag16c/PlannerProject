@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dailyplanner", "DailyPlanner\dailyplanner.esproj", "{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2F3CE0-36F9-6F7E-0BED-1E7B55F5B8B3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E0CABF4-57F1-4FA9-959B-943C954C411B}
+	EndGlobalSection
+EndGlobal
